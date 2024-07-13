@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5972b5b6.css",
+    "main.js": "/static/js/main.d1f29f02.js",
+    "static/media/graphic.svg": "/static/media/graphic.824992342a49c38af2ed6ead76859c21.svg",
+    "static/media/tbm_logo2.png": "/static/media/tbm_logo2.ce7c1d5d0d0f195eca03.png",
+    "static/media/logo.png": "/static/media/logo.3b2828053f31440958a8.png",
+    "index.html": "/index.html",
+    "main.5972b5b6.css.map": "/static/css/main.5972b5b6.css.map",
+    "main.d1f29f02.js.map": "/static/js/main.d1f29f02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5972b5b6.css",
+    "static/js/main.d1f29f02.js"
+  ]
+}
