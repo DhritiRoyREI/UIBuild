@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "css/main.5972b5b6.css",
-    "main.js": "js/main.d1f29f02.js",
-    "static/media/graphic.svg": "graphic.824992342a49c38af2ed6ead76859c21.svg",
-    "static/media/tbm_logo2.png": "tbm_logo2.ce7c1d5d0d0f195eca03.png",
-    "static/media/logo.png": "logo.3b2828053f31440958a8.png",
+    "main.css": "/css/main.5972b5b6.css",
+    "main.js": "/js/main.d1f29f02.js",
+    "static/media/graphic.svg": "/graphic.824992342a49c38af2ed6ead76859c21.svg",
+    "static/media/tbm_logo2.png": "/tbm_logo2.ce7c1d5d0d0f195eca03.png",
+    "static/media/logo.png": "/logo.3b2828053f31440958a8.png",
     "index.html": "/index.html",
-    "main.5972b5b6.css.map": "main.5972b5b6.css.map",
+    "main.5972b5b6.css.map": "/main.5972b5b6.css.map",
     "main.d1f29f02.js.map": "/main.d1f29f02.js.map"
   },
   "entrypoints": [
